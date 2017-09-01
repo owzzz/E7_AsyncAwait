@@ -1,0 +1,14 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "description": "Sandbox for testing out the new ES6 Async & Await functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.7.2"
+  }
+}
